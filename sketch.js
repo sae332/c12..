@@ -8,7 +8,7 @@ function preload(){
   //loadImage (carregarImagem) da pista)
  pathImg= loadImage("path.png")
   //loadAnimation (carregarAnimação) de corrida para o menino
-boyImg= loadAnimation("Jake1.png","Jake2.png","jake3.png","jake4.png","jake5.png")
+boyImg= loadAnimation("Jake1.png","Jake2.png","jake3.png","jake4.PNG","jake5.png")
 }
 
 function setup(){
